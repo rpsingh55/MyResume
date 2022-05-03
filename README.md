@@ -1,3 +1,2 @@
 # MyResume
-Resume
-
+This is my resume.
